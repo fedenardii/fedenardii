@@ -13,7 +13,7 @@ I'm a passionate **Computer Engineering** student at the University of Pisa, foc
 
 ### 📚 **Education**:
 - 🎓 **Bachelor's Degree in Computer Engineering** from the University of Pisa.
-- 🎓 **Diploma in Information Technology and Telecommunications** from ITS Marchi-Forti Pescia (PT).
+- 🎓 **High School Diploma in Computer Science and Telecommunications** from ITS Marchi-Forti Pescia (PT).
 
 ---
 
