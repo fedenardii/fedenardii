@@ -1,5 +1,4 @@
-# Hi there 👋, I'm Federico Nardi
-
+# Hi there, I'm Federico Nardi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40px">
 I'm a passionate **Computer Engineering** student at the University of Pisa, focusing on a variety of exciting fields in technology and innovation. Here's a bit about what drives me:
 
 ### 🚀 Interests:
