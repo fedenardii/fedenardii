@@ -15,6 +15,13 @@ I'm a passionate **Computer Engineering** student at the University of Pisa, foc
 - 🎓 **High School Diploma in Computer Science and Telecommunications** from ITS Marchi-Forti Pescia (PT).
 
 ---
+### 🤝 Open Source Contribution:
+
+- I collaborate in maintaining and organizing the Computer Engineering study material directory:
+  [Ingegneria Informatica](https://github.com/Guray00/IngegneriaInformatica)
+- The goal is to help students access useful notes, exercises, and resources in a clearer and more structured way.
+
+---
 
 ### 📬 **Get in Touch**:
 - 💬 [LinkedIn](https://www.linkedin.com/in/federico-nardi-310250253)
