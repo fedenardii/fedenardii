@@ -27,3 +27,7 @@ I'm a passionate **Computer Engineering** student at the University of Pisa, foc
 - 💬 [LinkedIn](https://www.linkedin.com/in/federico-nardi-310250253)
 - 📧 [Email](fede.nardi2307@gmail.com)
 - 📸 [Instagram](https://www.instagram.com/fede_nardiii)
+<img src="https://skillicons.dev/icons?i=cpp,mysql,matlab,r,java,html,css,js,php,md&theme=dark" alt="C++, MySQL, MATLAB, R, Java, HTML, CSS, JavaScript, PHP and Markdown" />
+  <img src="https://img.shields.io/badge/Verilog-1C3C3C?style=for-the-badge" alt="Verilog" />
+  <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13?style=for-the-badge" alt="x86 Assembly" />
+</p>
